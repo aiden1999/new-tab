@@ -3,4 +3,10 @@ body {
     color: rgb(236, 239, 244);
 }
 
-a {color: rgb(236, 239, 244);}
+a:link {color: rgb(236, 239, 244);}
+
+a:visited {color: rgb(236, 239, 244);}
+
+a:hover {color: rgb(236, 239, 244);}
+
+a:active {color: rgb(236, 239, 244);}
